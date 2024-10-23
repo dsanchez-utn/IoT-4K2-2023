@@ -1,5 +1,5 @@
-# IoT-4K2-2023
-Internet de la Cosas - 4K2 - 2023
+# IoT-4K2
+Internet de la Cosas - 4K2
 
 Códigos utilizados en clase.
 
